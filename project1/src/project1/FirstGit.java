@@ -20,20 +20,19 @@ public class FirstGit {
 		System.out.println("saymon");
 
 
-<<<<<<< HEAD
+
 		System.out.println("Hasan");
 		System.out.println("Hasan1");
+		System.out.println("Hasan2");
 		
 		
 		
-		
 
 
 
 
-=======
 
->>>>>>> branch 'master' of https://github.com/talentek/project1.git
+
 	}
 
 }
